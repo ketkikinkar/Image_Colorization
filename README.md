@@ -6,6 +6,7 @@ This Jupyter Notebook demonstrates the use of a Pix2Pix model enhanced with a Co
 
 ## Members
 
+Anuj Zore (https://www.linkedin.com/in/anuj-zore-806b3112a/)
 Ketki Kinkar (https://www.linkedin.com/in/ketkikinkar/)
 
 ## Introduction
