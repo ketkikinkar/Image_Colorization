@@ -4,6 +4,10 @@
 ## Overview
 This Jupyter Notebook demonstrates the use of a Pix2Pix model enhanced with a Conditional Wasserstein Generative Adversarial Network (WGAN) for the task of image colorization. It explores advanced techniques in deep learning to add color to grayscale images, leveraging the stability and efficiency of WGANs.
 
+## Members
+
+Ketki Kinkar (https://www.linkedin.com/in/ketkikinkar/)
+
 ## Introduction
 Pix2Pix is renowned for its proficiency in image-to-image translation tasks. This notebook takes it a step further by integrating a WGAN with a U-Net architecture based on residual blocks, improving its performance in colorization. The U-Net architecture, known for its effectiveness in image segmentation, combined with the stability of WGANs, makes for a robust solution to colorization challenges.
 
