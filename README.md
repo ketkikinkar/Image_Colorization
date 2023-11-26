@@ -7,6 +7,10 @@ This Jupyter Notebook demonstrates the use of a Pix2Pix model enhanced with a Co
 ## Introduction
 Pix2Pix is renowned for its proficiency in image-to-image translation tasks. This notebook takes it a step further by integrating a WGAN with a U-Net architecture based on residual blocks, improving its performance in colorization. The U-Net architecture, known for its effectiveness in image segmentation, combined with the stability of WGANs, makes for a robust solution to colorization challenges.
 
+## Architecture
+
+
+
 ## Features
 - Implementation of Pix2Pix with Conditional WGAN.
 - Detailed exploration of U-Net architecture with residual blocks.
@@ -38,6 +42,10 @@ Pix2Pix is renowned for its proficiency in image-to-image translation tasks. Thi
 - Model Architecture: Generator and Discriminator in detail
 - Training the Conditional WGAN
 - Interactive Image Colorization Demo
+
+## Dataset Sample
+
+
 
 ## Contributing
 Your contributions are welcome! Please adhere to the standard pull request process for any improvements or bug fixes.
