@@ -46,12 +46,12 @@ Pix2Pix is renowned for its proficiency in image-to-image translation tasks. Thi
 
 ## Dataset Sample
 
-![alt text]((https://github.com/ZoreAnuj/Image_Colorization/blob/main/sample.png))
+![alt text](https://github.com/ZoreAnuj/Image_Colorization/blob/main/sample.png)
 
 ## Results
 
 ### Epoch 0 
-![alt text]((https://github.com/ZoreAnuj/Image_Colorization/blob/main/sample.png))
+![alt text](https://github.com/ZoreAnuj/Image_Colorization/blob/main/sample.png)
 
 ### Epoch 10
 ![alt text](https://github.com/ZoreAnuj/Image_Colorization/blob/main/epoch10.png)
