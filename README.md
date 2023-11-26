@@ -42,8 +42,3 @@ Pix2Pix is renowned for its proficiency in image-to-image translation tasks. Thi
 ## Contributing
 Your contributions are welcome! Please adhere to the standard pull request process for any improvements or bug fixes.
 
-## License
-This project is licensed under [License Name].
-
-## Contact
-For queries or feedback, reach out at [Your Contact Information].
