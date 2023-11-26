@@ -1,5 +1,5 @@
 
-# Pix2Pix Image Colorization with Conditional WGAN
+# Pix2Pix - Image Colorization with Conditional WGAN
 
 ## Overview
 This Jupyter Notebook demonstrates the use of a Pix2Pix model enhanced with a Conditional Wasserstein Generative Adversarial Network (WGAN) for the task of image colorization. It explores advanced techniques in deep learning to add color to grayscale images, leveraging the stability and efficiency of WGANs.
